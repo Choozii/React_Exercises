@@ -1,1 +1,4 @@
-(()=>{"use strict";document.querySelector("#root").innerHTML="<p>Hello world!</p>"})();
+(() => {
+  'use strict';
+  document.querySelector('#root').innerHTML = '<p>Hello world!</p>';
+})();
